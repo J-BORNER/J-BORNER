@@ -2,8 +2,49 @@
 ¡Hola a todos! 👋 Soy Brian Mendez, un apasionado programador de 20 años proveniente de la hermosa Guatemala. Mi amor por la programación se alimenta de la curiosidad y el deseo constante de aprender y superarme.<br><br>Desde joven, he estado inmerso en el mundo de la tecnología, y mi entusiasmo por el desarrollo de software no conoce límites. Mi objetivo es destacar en el ámbito de la programación, contribuir significativamente a proyectos innovadores y crecer profesionalmente de la mano de desafíos estimulantes.<br><br>Me considero una mente inquieta y creativa, siempre buscando soluciones ingeniosas para los problemas. Mi habilidad para adaptarme rápidamente y absorber nuevas tecnologías me ha permitido mantenerme actualizado en un mundo tecnológico en constante evolución.<br><br>Mi experiencia incluye [menciona brevemente tus habilidades o tecnologías preferidas]. Estoy ansioso por participar en proyectos que desafíen mis habilidades y me permitan crecer como profesional. Creo firmemente en la colaboración y la sinergia de equipos, y estoy listo para aportar mi energía y conocimiento a cualquier iniciativa.<br><br>Además de mi pasión por la codificación, también valoro la comunicación efectiva y la transparencia en el desarrollo de proyectos. Creo que el intercambio constante de ideas y la retroalimentación constructiva son fundamentales para el éxito de cualquier equipo.<br><br>Si buscas un programador joven, dinámico y lleno de energía que esté listo para sumergirse en proyectos emocionantes, ¡has llegado al lugar correcto! Estoy emocionado por las oportunidades que el futuro tiene reservadas y estoy dispuesto a aportar mi dedicación y entusiasmo a cualquier desafío que se presente.<br><br>¡Vamos a construir algo increíble juntos! 🚀✨
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/brimenlim) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Brian Mendez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bryspics_life) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Bryan Mendez) 
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://discord.gg/brimenlim" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://facebook.com/BrianMendez" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/bryspics_life" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@BryanMendez" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brianmendez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/BrianMendez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/BryanMendez" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://t.me/BryanMendez" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.tiktok.com/@BryanMendez" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://www.reddit.com/user/BryanMendez" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="https://medium.com/@BryanMendez" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://dev.to/bryanmendez" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="mailto:bryanmendez@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ## 🚀 Tecnologías y Herramientas
