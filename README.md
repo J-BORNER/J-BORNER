@@ -157,9 +157,10 @@
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
-  <!-- PrimeNG (ícono personalizado estilo Prime) -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/primeng.svg" alt="PrimeNG"
-  style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
+<!-- PrimeNG (ícono oficial alternativo, visible y pro) -->
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/primeng.svg" alt="PrimeNG"
+  style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;
+  border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
 
@@ -180,8 +181,10 @@
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
-  <img src="https://cdn.simpleicons.org/ibm/054ADA" alt="DB2"
-    style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
+<!-- IBM DB2 (ícono corregido y garantizado visible) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/db2/db2-original.svg" alt="IBM DB2"
+  style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;
+  border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB"
