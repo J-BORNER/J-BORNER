@@ -257,7 +257,7 @@
 ### ☁️ Cloud & DevOps
 <div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center">
 
-  <!-- AWS (ícono oficial garantizado visible) -->
+  <!-- AWS (corregido y garantizado visible) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"
   style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="IA / OpenAI"
