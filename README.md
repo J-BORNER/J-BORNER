@@ -30,10 +30,10 @@
       style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/brianmendez" target="_blank" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"
-      style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
-  </a>
+<a href="https://www.linkedin.com/in/brianmendez" target="_blank" title="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"
+    style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
+</a>
 
   <a href="https://github.com/BrianMendez" target="_blank" title="GitHub">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"
@@ -119,8 +119,8 @@
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS"
-    style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS"
+  style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"
@@ -157,8 +157,9 @@
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
-  <img src="https://cdn.simpleicons.org/prime/00B0FF" alt="PrimeNG"
-    style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
+  <!-- PrimeNG (ícono personalizado estilo Prime) -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/primeng.svg" alt="PrimeNG"
+  style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
 
@@ -235,8 +236,9 @@
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/eclipseide/2C2255" alt="Eclipse"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code"
-    style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
+  <!-- Visual Studio (corregido y garantizado visible) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code"
+  style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/jetbrains/FFFFFF" alt="JetBrains"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/apacheNetBeansIDE/009CDC" alt="NetBeans"
@@ -255,8 +257,9 @@
 ### ☁️ Cloud & DevOps
 <div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center">
 
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS"
-    style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
+  <!-- AWS (ícono oficial garantizado visible) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"
+  style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="IA / OpenAI"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
 
