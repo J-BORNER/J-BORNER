@@ -2,54 +2,36 @@
 ¡Hola a todos! 👋 Soy Brian Mendez, un apasionado programador de 20 años proveniente de la hermosa Guatemala. Mi amor por la programación se alimenta de la curiosidad y el deseo constante de aprender y superarme.<br><br>Desde joven, he estado inmerso en el mundo de la tecnología, y mi entusiasmo por el desarrollo de software no conoce límites. Mi objetivo es destacar en el ámbito de la programación, contribuir significativamente a proyectos innovadores y crecer profesionalmente de la mano de desafíos estimulantes.<br><br>Me considero una mente inquieta y creativa, siempre buscando soluciones ingeniosas para los problemas. Mi habilidad para adaptarme rápidamente y absorber nuevas tecnologías me ha permitido mantenerme actualizado en un mundo tecnológico en constante evolución.<br><br>Mi experiencia incluye [menciona brevemente tus habilidades o tecnologías preferidas]. Estoy ansioso por participar en proyectos que desafíen mis habilidades y me permitan crecer como profesional. Creo firmemente en la colaboración y la sinergia de equipos, y estoy listo para aportar mi energía y conocimiento a cualquier iniciativa.<br><br>Además de mi pasión por la codificación, también valoro la comunicación efectiva y la transparencia en el desarrollo de proyectos. Creo que el intercambio constante de ideas y la retroalimentación constructiva son fundamentales para el éxito de cualquier equipo.<br><br>Si buscas un programador joven, dinámico y lleno de energía que esté listo para sumergirse en proyectos emocionantes, ¡has llegado al lugar correcto! Estoy emocionado por las oportunidades que el futuro tiene reservadas y estoy dispuesto a aportar mi dedicación y entusiasmo a cualquier desafío que se presente.<br><br>¡Vamos a construir algo increíble juntos! 🚀✨
 
 
+<!-- 🌐 Redes Sociales -->
 ## 🌐 Socials
 
-<p align="center">
-  <a href="https://discord.gg/brimenlim" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://facebook.com/BrianMendez" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/bryspics_life" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/@BryanMendez" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brianmendez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/BrianMendez" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/BryanMendez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://t.me/BryanMendez" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.tiktok.com/@BryanMendez" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://www.reddit.com/user/BryanMendez" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-  <a href="https://medium.com/@BryanMendez" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://dev.to/bryanmendez" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="mailto:bryanmendez@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/brimenlim)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/BrianMendez)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bryspics_life)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@BryanMendez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianmendez)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianMendez)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BryanMendez)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BryanMendez)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@BryanMendez)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/BryanMendez)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@BryanMendez)
+[![Dev.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bryanmendez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanmendez@example.com)
+
+</div>
+
+---
+
+<!-- 💻 Stack Tecnológico -->
 # 💻 Tech Stack:
 ## 🚀 Tecnologías y Herramientas
 
 ### 💻 Lenguajes de Programación
+<div align="center">
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -58,9 +40,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JSON](https://img.shields.io/badge/JSON-Data-lightgrey?style=for-the-badge&logo=json&logoColor=black)
 
+</div>
+
 ---
 
 ### 🖼️ Diseño y Frontend
+<div align="center">
+
 ![Figma](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,9 +55,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
+</div>
+
 ---
 
 ### ⚙️ Frameworks y Librerías
+<div align="center">
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -84,9 +74,13 @@
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-00B0FF?style=for-the-badge&logo=primeng&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+</div>
+
 ---
 
 ### 🗄️ Bases de Datos
+<div align="center">
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -94,9 +88,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</div>
+
 ---
 
 ### 🐧 Sistemas Operativos
+<div align="center">
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
@@ -104,9 +102,13 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+</div>
+
 ---
 
 ### 🔧 Herramientas
+<div align="center">
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -120,25 +122,62 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-009CDC?style=for-the-badge&logo=netbeans&logoColor=white)
 ![Mockitt](https://img.shields.io/badge/Mockitt-FF4F81?style=for-the-badge)
 
+</div>
+
 ---
 
 ### ☁️ Cloud & DevOps
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IA](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge&logo=openai&logoColor=white)
 
+</div>
+
+---
+
+<!-- 📊 Estadísticas de GitHub -->
 # 📊 GitHub Stats:
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=J-BORNER&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=J-BORNER&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=J-BORNER&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=J-BORNER&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=J-BORNER&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=J-BORNER&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+### 🔝 Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=J-BORNER&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=J-BORNER&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
