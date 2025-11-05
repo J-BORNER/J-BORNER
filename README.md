@@ -3,181 +3,116 @@
 
 
 <!-- 🌐 Redes Sociales -->
-## 🌐 Socials
+<!-- 🌐 Redes Sociales -->
+<h2 align="center">🌐 Socials</h2>
 
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/brimenlim)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/BrianMendez)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bryspics_life)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@BryanMendez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianmendez)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianMendez)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BryanMendez)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BryanMendez)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@BryanMendez)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/BryanMendez)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@BryanMendez)
-[![Dev.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bryanmendez)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanmendez@example.com)
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color:#0d1117; border-radius:10px; padding:15px;">
+  <a href="https://discord.gg/brimenlim"><img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord"/></a>
+  <a href="https://facebook.com/BrianMendez"><img src="https://skillicons.dev/icons?i=facebook" width="48" alt="Facebook"/></a>
+  <a href="https://instagram.com/bryspics_life"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/></a>
+  <a href="https://youtube.com/@BryanMendez"><img src="https://skillicons.dev/icons?i=youtube" width="48" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/brianmendez"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a>
+  <a href="https://github.com/BrianMendez"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
+  <a href="https://twitter.com/BryanMendez"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter"/></a>
+  <a href="https://t.me/BryanMendez"><img src="https://skillicons.dev/icons?i=telegram" width="48" alt="Telegram"/></a>
+  <a href="https://www.tiktok.com/@BryanMendez"><img src="https://skillicons.dev/icons?i=tiktok" width="48" alt="TikTok"/></a>
+  <a href="https://www.reddit.com/user/BryanMendez"><img src="https://skillicons.dev/icons?i=reddit" width="48" alt="Reddit"/></a>
+  <a href="https://medium.com/@BryanMendez"><img src="https://skillicons.dev/icons?i=medium" width="48" alt="Medium"/></a>
+  <a href="https://dev.to/bryanmendez"><img src="https://skillicons.dev/icons?i=devto" width="48" alt="Dev.to"/></a>
+  <a href="mailto:bryanmendez@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/></a>
 </div>
 
 ---
 
-<!-- 💻 Stack Tecnológico -->
-# 💻 Tech Stack:
-## 🚀 Tecnologías y Herramientas
+<h1 align="center">💻 Tech Stack</h1>
+<h2 align="center">🚀 Tecnologías y Herramientas</h2>
 
-### 💻 Lenguajes de Programación
-<div align="center">
+<!-- Lenguajes -->
+<h3 align="center">💻 Lenguajes de Programación</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,javascript,json" />
+</p>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JSON](https://img.shields.io/badge/JSON-Data-lightgrey?style=for-the-badge&logo=json&logoColor=black)
+<!-- Diseño y Frontend -->
+<h3 align="center">🎨 Diseño y Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,flutter,render" />
+</p>
 
-</div>
+<!-- Frameworks -->
+<h3 align="center">⚙️ Frameworks y Librerías</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,nodejs,express,vite,spring,laravel,dotnet,primeng,supabase" />
+</p>
 
----
+<!-- Bases de Datos -->
+<h3 align="center">🗄️ Bases de Datos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,firebase,mongodb,sqlite" />
+  <img src="https://img.shields.io/badge/DB2-IBM-blue?style=for-the-badge&logo=ibm&logoColor=white" height="32"/>
+</p>
 
-### 🖼️ Diseño y Frontend
-<div align="center">
+<!-- Sistemas Operativos -->
+<h3 align="center">🐧 Sistemas Operativos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,debian" />
+  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Parrot%20OS-00AEEF?style=for-the-badge&logo=parrotsecurity&logoColor=white" height="32"/>
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+<!-- Herramientas -->
+<h3 align="center">🛠️ Herramientas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,apache,netlify,vercel,vscode,jetbrains,eclipse,xd,ai,ps" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7E01?style=for-the-badge&logo=xampp&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/NetBeans-009CDC?style=for-the-badge&logo=netbeans&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Mockitt-FF4F81?style=for-the-badge" height="32"/>
+</p>
 
-</div>
-
----
-
-### ⚙️ Frameworks y Librerías
-<div align="center">
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-00B0FF?style=for-the-badge&logo=primeng&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
----
-
-### 🗄️ Bases de Datos
-<div align="center">
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![DB2](https://img.shields.io/badge/IBM%20DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
+<!-- Cloud -->
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,github,git,openai" />
+</p>
 
 ---
 
-### 🐧 Sistemas Operativos
-<div align="center">
+<!-- Estadísticas -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![Parrot Linux](https://img.shields.io/badge/Parrot%20OS-00AEEF?style=for-the-badge&logo=parrotsecurity&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-BORNER&theme=highcontrast&hide_border=false" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-BORNER&theme=highcontrast&hide_border=false" height="165"/>
+</p>
 
-</div>
-
----
-
-### 🔧 Herramientas
-<div align="center">
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Reden](https://img.shields.io/badge/Reden-blueviolet?style=for-the-badge)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7E01?style=for-the-badge&logo=xampp&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-009CDC?style=for-the-badge&logo=netbeans&logoColor=white)
-![Mockitt](https://img.shields.io/badge/Mockitt-FF4F81?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-BORNER&theme=highcontrast&layout=compact" height="165"/>
+</p>
 
 ---
 
-### ☁️ Cloud & DevOps
-<div align="center">
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IA](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=J-BORNER&theme=matrix&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
-<!-- 📊 Estadísticas de GitHub -->
-# 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=J-BORNER&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=J-BORNER&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=J-BORNER&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=J-BORNER&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
+<h2 align="center">🔝 Top Contributed Repo</h2>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=J-BORNER&limit=5&theme=matrix&combine_all_yearly_contributions=true"/>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-### 🔝 Top Contributed Repo
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=J-BORNER&limit=5&theme=matrix&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=J-BORNER&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=J-BORNER&icon=0&color=0" />
+</p>
