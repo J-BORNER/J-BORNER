@@ -181,8 +181,8 @@
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
-<!-- IBM DB2 (logo visible siempre con CDN estático) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_DB2_Logo.svg" alt="IBM DB2"
+<!-- IBM (corregido, visible y con estilo pro) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" alt="IBM"
   style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;
   border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase"
