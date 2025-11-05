@@ -173,8 +173,9 @@
 ### 🗄️ Bases de Datos
 <div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center">
 
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle"
-    style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
+  <!-- Oracle (corregido y garantizado visible) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"
+  style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"
     style="width:42px;height:42px;background:#161b22;border:1px solid #30363d;border-radius:12px;padding:10px;margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres"
