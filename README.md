@@ -1,60 +1,61 @@
-<!-- BANNER PRINCIPAL -->
+<!-- BANNER PRINCIPAL PERSONALIZADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=[TU%20NOMBRE]&fontSize=60&fontColor=fff&animation=twinkling&desc=DevSecOps%20|%20Full%20Stack%20|%20Fundador&descSize=20&descAlignY=70&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=BRIAN%20ROCAEL%20MENDEZ%20LIMA&fontSize=50&fontColor=fff&animation=twinkling&desc=DevSecOps%20|%20Full%20Stack%20|%20Fundador%20de%20MRL%20SoftSolution&descSize=20&descAlignY=70&descAlign=62" />
 </p>
 
-<!-- AVATAR / LOGO (OPCIONAL) -->
+<!-- AVATAR PROFESIONAL (INICIALES) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/[TU-USUARIO]?size=150" width="150" style="border-radius:50%"/>
+  <img src="https://ui-avatars.com/api/?name=Brian+Mendez&size=180&background=0e75b6&color=fff&bold=true&length=2" width="150" style="border-radius:50%; border: 3px solid #0e75b6; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
   <br>
-  <strong>🧠 Ingeniero en Sistemas · Fundador de [NOMBRE EMPRESA]</strong>
+  <strong>🧠 Ingeniero en Sistemas · Fundador de MRL SoftSolution</strong>
   <br>
-  <i>“No solo despliego, protejo. No solo programo, diseño sistemas completos.”</i>
+  <i>“No solo construyo software, diseño soluciones completas que transforman industrias.”</i>
 </p>
 
 <!-- BADGES DE CONTACTO Y VISITAS -->
 <p align="center">
-  <a href="https://linkedin.com/in/[TU-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/[TU-USUARIO]"><img src="https://img.shields.io/badge/GitHub-@[TU-USUARIO]-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:[TU-EMAIL]"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brian-mendez-2904092b6/"><img src="https://img.shields.io/badge/LinkedIn-Brian%20Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/J-BORNER"><img src="https://img.shields.io/badge/GitHub-@J--BORNER-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:bm930731@gmail.com"><img src="https://img.shields.io/badge/Email-bm930731@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portafolio-brm-service.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-MRL%20SoftSolution-4285F4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://x.com/BriMenLim"><img src="https://img.shields.io/badge/Twitter-@BriMenLim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=[TU-USUARIO]&label=VISITAS+AL+MES&color=0e75b6&style=flat-square" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=J-BORNER&label=VISITAS+AL+MES&color=0e75b6&style=flat-square" alt="Visitas"/>
 </p>
 
 ---
 
-## 📌 BRIAN ROCAEL MENDEZ LIMA
+## 📌 SOBRE MÍ — CON ACTITUD PROFESIONAL
 
-Soy ingeniero de sistemas de formación y DevSecOps por convicción.  
-Me formé en la universidad, pero me especialicé en el campo: llevo años construyendo software, desplegando infraestructura y blindando sistemas contra lo que sea que venga.
+Soy **Brian Rocael Mendez Lima**, ingeniero de sistemas de formación y DevSecOps por convicción.  
+Me formé en la **Universidad Mariano Gálvez de Guatemala** y me especialicé en el campo: llevo años construyendo software, desplegando infraestructura y blindando sistemas contra lo que sea que venga.
 
 Actualmente curso el **último año de la carrera** y, en paralelo, **dos diplomados**:  
-- 🔷 Java Full Stack (arquitectura empresarial)  
-- 🛡️ Ciberseguridad (IRSI + SISAP)
+- 🔷 **Java Full Stack** — Udemy (Arquitectura empresarial, Spring, JPA, microservicios)  
+- 🛡️ **Ciberseguridad** — IRSI / SISAP Guatemala (en curso)
 
-Y como si fuera poco, estoy **fundando mi propia empresa** de desarrollo de software y ciberseguridad.  
+Cuento con **certificaciones en Oracle, IBM DB2, Python, Linux y UNIX**, lo que me permite operar con soltura desde el kernel hasta la nube.
+
+Y como si fuera poco, soy **fundador de MRL SoftSolution**, una empresa dedicada a:  
+- Desarrollo de software a medida  
+- Ciberseguridad ofensiva y defensiva  
+- Consultoría en IT/OT  
+- Automatización y cloud
+
 No quiero solo escribir código; quiero **crear soluciones completas que resuelvan problemas reales**.
-
-Me muevo con la misma soltura en:
-- Backend robusto y escalable  
-- Frontend moderno y eficiente  
-- Infraestructura como código  
-- Seguridad ofensiva/defensiva integrada en el ciclo de vida  
-
-Para mí, **DevSecOps no es un rol, es una forma de entender la ingeniería**.
 
 ---
 
 ## 📊 ESTADÍSTICAS DE GITHUB
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU-USUARIO]&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=J-BORNER&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-BORNER&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO]&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=[TU-USUARIO]&theme=radical&no-frame=true&row=1&column=7" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-BORNER&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=J-BORNER&theme=radical&no-frame=true&row=1&column=7" width="52%" />
 </p>
 
 ---
@@ -107,9 +108,9 @@ Para mí, **DevSecOps no es un rol, es una forma de entender la ingeniería**.
 |:---:|:---:|:---:|
 | PostgreSQL | MySQL | Oracle |
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50">](https://mongodb.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50">](https://redis.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg" width="50">](https://couchbase.com) |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50">](https://mongodb.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50">](https://redis.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ibm/ibm-original.svg" width="50">](https://www.ibm.com/db2) |
 |:---:|:---:|:---:|
-| MongoDB | Redis | NoSQL |
+| MongoDB | Redis | IBM DB2 |
 
 ---
 
@@ -118,7 +119,7 @@ Para mí, **DevSecOps no es un rol, es una forma de entender la ingeniería**.
 |:---:|:---:|:---:|
 | Debian | Ubuntu | Kali Linux |
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rockylinux/rockylinux-original.svg" width="50">](https://rockylinux.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/freebsd/freebsd-original.svg" width="50">](https://freebsd.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-original.svg" width="50">](https://gentoo.org) |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="50">](https://rockylinux.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/freebsd/freebsd-original.svg" width="50">](https://freebsd.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-original.svg" width="50">](https://gentoo.org) |
 |:---:|:---:|:---:|
 | Rocky Linux | FreeBSD | Gentoo |
 
@@ -140,9 +141,9 @@ Para mí, **DevSecOps no es un rol, es una forma de entender la ingeniería**.
 |:---:|:---:|:---:|
 | SonarQube | Snyk | OWASP |
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trivy/trivy-original.svg" width="50">](https://trivy.dev) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aqua/aqua-original.svg" width="50">](https://aquasec.com) | |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trivy/trivy-original.svg" width="50">](https://trivy.dev) | | |
 |:---:|:---:|:---:|
-| Trivy | Aqua Security | |
+| Trivy | | |
 
 ---
 
@@ -160,12 +161,29 @@ Para mí, **DevSecOps no es un rol, es una forma de entender la ingeniería**.
 
 ---
 
-## 📜 FORMACIÓN Y CREDENCIALES
+## 📜 FORMACIÓN Y CERTIFICACIONES
 
-- 🎓 **Ingeniería en Sistemas** — Último año (egreso próximo).  
-- 🧪 **Diplomado Java Full Stack** — Spring Framework, JPA, microservicios, arquitectura limpia.  
-- 🛡️ **Diplomado en Ciberseguridad** — IRSI + SISAP (en curso).  
-- 🚀 **Fundador de MRL SoftSolution** — Desarrollo de software, ciberseguridad y consultoría en ingeniería de sistemas.
+- 🎓 **Ingeniería en Sistemas** — Universidad Mariano Gálvez de Guatemala (último año).  
+- 🧪 **Diplomado Java Full Stack** — Udemy (Spring Framework, JPA, microservicios, arquitectura limpia).  
+- 🛡️ **Diplomado en Ciberseguridad** — IRSI / SISAP Guatemala (en curso).  
+- 📜 **Certificaciones profesionales**:  
+  - Oracle Database  
+  - IBM DB2  
+  - Python  
+  - Linux  
+  - UNIX  
+
+---
+
+## 🚀 MRL SOFTSOLUTION — MI EMPRESA
+
+**MRL SoftSolution** nace con la misión de ofrecer soluciones integrales de ingeniería de sistemas, combinando **desarrollo de software, ciberseguridad, IT y OT**.
+
+> *“Seguridad, innovación y excelencia en cada línea de código.”*
+
+- 🌐 **Web / Portafolio**: [https://portafolio-brm-service.vercel.app/](https://portafolio-brm-service.vercel.app/)  
+- 🐙 **GitHub**: [https://github.com/J-BORNER](https://github.com/J-BORNER)  
+- 🔗 **LinkedIn**: [Brian Mendez](https://www.linkedin.com/in/brian-mendez-2904092b6/)
 
 ---
 
@@ -178,7 +196,7 @@ Por eso:
 - Desarrollo con **calidad y mantenibilidad** desde el primer commit.
 - Automatizo hasta el último rincón manual.
 - Integro **seguridad por diseño**, no al final.
-- Construyendo mi propia empresa para **ofrecer soluciones 360°**.
+- Construyo **MRL SoftSolution** para ofrecer soluciones 360°.
 
 > *“La tecnología es el medio. El sistema completo es el fin.”*
 
@@ -196,9 +214,11 @@ Si buscas a alguien que pueda **diseñar, construir, desplegar y proteger** tu p
 - Joint ventures y alianzas estratégicas
 
 <p align="center">
-  <a href="[https://linkedin.com/in/[TU-LINKEDIN]](https://www.linkedin.com/in/brian-mendez-2904092b6/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/[TU-USUARIO]"><img src="https://img.shields.io/badge/GitHub-@[TU-USUARIO]-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:[bm930731gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brian-mendez-2904092b6/"><img src="https://img.shields.io/badge/LinkedIn-Brian%20Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/J-BORNER"><img src="https://img.shields.io/badge/GitHub-@J--BORNER-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:bm930731@gmail.com"><img src="https://img.shields.io/badge/Email-bm930731@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portafolio-brm-service.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-MRL%20SoftSolution-4285F4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://x.com/BriMenLim"><img src="https://img.shields.io/badge/Twitter-@BriMenLim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
