@@ -1,29 +1,36 @@
-# ¡QUE TAL! ING. BRIAN MENEZ 🧠⚙️🛡️
+<!-- BANNER PRINCIPAL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=[TU%20NOMBRE]&fontSize=60&fontColor=fff&animation=twinkling&desc=DevSecOps%20|%20Full%20Stack%20|%20Fundador&descSize=20&descAlignY=70&descAlign=62" />
+</p>
 
-**Ingeniero en Sistemas (último año) · Fundador de MRL SoftSolution · DevSecOps & Full Stack Architect**  
-*Construyo, automatizo y aseguro sistemas completos. Del kernel a la nube, del firewall al frontend.*
+<!-- AVATAR / LOGO (OPCIONAL) -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/[TU-USUARIO]?size=150" width="150" style="border-radius:50%"/>
+  <br>
+  <strong>🧠 Ingeniero en Sistemas · Fundador de [NOMBRE EMPRESA]</strong>
+  <br>
+  <i>“No solo despliego, protejo. No solo programo, diseño sistemas completos.”</i>
+</p>
 
-[![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&label=VISITAS+AL+MES&color=0e75b6&style=flat-square)](https://github.com/TU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-@TUUSUARIO-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
+<!-- BADGES DE CONTACTO Y VISITAS -->
+<p align="center">
+  <a href="https://linkedin.com/in/[TU-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/[TU-USUARIO]"><img src="https://img.shields.io/badge/GitHub-@[TU-USUARIO]-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:[TU-EMAIL]"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=[TU-USUARIO]&label=VISITAS+AL+MES&color=0e75b6&style=flat-square" alt="Visitas"/>
+</p>
 
 ---
 
-## 📌 UNA MIRADA RÁPIDA
-
-+15 tecnologías dominadas, 7 industrias de impacto, 2 diplomados especializados, 1 empresa fundada (y con Dios, creciendo).  
-Mi filosofía es clara: **no existe división real entre desarrollo, operaciones y seguridad**. Solo ingeniería bien aplicada.
-
----
-
-## 🧠 SOBRE MÍ — CON ACTITUD PROFESIONAL
+## 📌 BRIAN ROCAEL MENDEZ LIMA
 
 Soy ingeniero de sistemas de formación y DevSecOps por convicción.  
 Me formé en la universidad, pero me especialicé en el campo: llevo años construyendo software, desplegando infraestructura y blindando sistemas contra lo que sea que venga.
 
 Actualmente curso el **último año de la carrera** y, en paralelo, **dos diplomados**:  
-- Java Full Stack (arquitectura empresarial)  
-- Ciberseguridad (IRSI + SISAP)
+- 🔷 Java Full Stack (arquitectura empresarial)  
+- 🛡️ Ciberseguridad (IRSI + SISAP)
 
 Y como si fuera poco, estoy **fundando mi propia empresa** de desarrollo de software y ciberseguridad.  
 No quiero solo escribir código; quiero **crear soluciones completas que resuelvan problemas reales**.
@@ -38,82 +45,108 @@ Para mí, **DevSecOps no es un rol, es una forma de entender la ingeniería**.
 
 ---
 
+## 📊 ESTADÍSTICAS DE GITHUB
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU-USUARIO]&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO]&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[TU-USUARIO]&theme=radical&no-frame=true&row=1&column=7" width="52%" />
+</p>
+
+---
+
 ## 🛠️ ECOSISTEMA TECNOLÓGICO
 
 ### 🧬 LENGUAJES
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50">](https://java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">](https://python.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50">](https://php.net) |
+|:---:|:---:|:---:|
+| Java | Python | PHP |
 
-### 🎨 FRONTEND
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50">](https://cplusplus.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50">](https://cplusplus.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50">](https://dotnet.microsoft.com) |
+|:---:|:---:|:---:|
+| C | C++ | C# |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">](https://javascript.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50">](https://typescriptlang.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50">](https://gnu.org/software/bash) |
+|:---:|:---:|:---:|
+| JavaScript | TypeScript | Bash |
+
+---
+
+### 🎨 FRONTEND & UI
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50">](https://reactjs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50">](https://nextjs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50">](https://vuejs.org) |
+|:---:|:---:|:---:|
+| React | Next.js | Vue.js |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="50">](https://vitejs.dev) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="50">](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50">](https://laravel.com) |
+|:---:|:---:|:---:|
+| Vite | Angular | Laravel |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50">](https://html.spec.whatwg.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50">](https://w3.org/Style/CSS) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50">](https://tailwindcss.com) |
+|:---:|:---:|:---:|
+| HTML5 | CSS3 | TailwindCSS |
+
+---
 
 ### ⚙️ BACKEND & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50">](https://nodejs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50">](https://expressjs.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50">](https://spring.io) |
+|:---:|:---:|:---:|
+| Node.js | Express | Spring Boot |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50">](https://laravel.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50">](https://fastapi.tiangolo.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="50">](https://graphql.org) |
+|:---:|:---:|:---:|
+| Laravel | FastAPI | GraphQL |
+
+---
 
 ### 🗃️ BASES DE DATOS
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=couchbase&logoColor=white)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50">](https://postgresql.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50">](https://mysql.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50">](https://oracle.com) |
+|:---:|:---:|:---:|
+| PostgreSQL | MySQL | Oracle |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50">](https://mongodb.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50">](https://redis.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg" width="50">](https://couchbase.com) |
+|:---:|:---:|:---:|
+| MongoDB | Redis | NoSQL |
+
+---
 
 ### 🐧 SISTEMAS OPERATIVOS & KERNEL
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8B57?style=for-the-badge&logo=parrot&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="50">](https://debian.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="50">](https://ubuntu.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="50">](https://kali.org) |
+|:---:|:---:|:---:|
+| Debian | Ubuntu | Kali Linux |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rockylinux/rockylinux-original.svg" width="50">](https://rockylinux.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/freebsd/freebsd-original.svg" width="50">](https://freebsd.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-original.svg" width="50">](https://gentoo.org) |
+|:---:|:---:|:---:|
+| Rocky Linux | FreeBSD | Gentoo |
+
+---
 
 ### ☁️ INFRAESTRUCTURA & CLOUD
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50">](https://aws.amazon.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50">](https://azure.microsoft.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50">](https://docker.com) |
+|:---:|:---:|:---:|
+| AWS | Azure | Docker |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50">](https://kubernetes.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50">](https://terraform.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50">](https://jenkins.io) |
+|:---:|:---:|:---:|
+| Kubernetes | Terraform | Jenkins |
+
+---
 
 ### 🔐 SEGURIDAD & DEVSECOPS
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-![SAST](https://img.shields.io/badge/SAST-FF6C37?style=for-the-badge&logo=sast&logoColor=white)
-![DAST](https://img.shields.io/badge/DAST-FF6C37?style=for-the-badge&logo=dast&logoColor=white)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="50">](https://sonarqube.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snyk/snyk-original.svg" width="50">](https://snyk.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-original.svg" width="50">](https://owasp.org) |
+|:---:|:---:|:---:|
+| SonarQube | Snyk | OWASP |
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trivy/trivy-original.svg" width="50">](https://trivy.dev) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aqua/aqua-original.svg" width="50">](https://aquasec.com) | |
+|:---:|:---:|:---:|
+| Trivy | Aqua Security | |
 
 ---
 
 ## 🏗️ IMPACTO EN LA INDUSTRIA
-
-He llevado mi enfoque **full stack + seguridad** a diversas industrias, siempre con resultados tangibles:
 
 | Industria | Aportación |
 |----------|------------|
@@ -162,9 +195,11 @@ Si buscas a alguien que pueda **diseñar, construir, desplegar y proteger** tu p
 - Mentorías y charlas  
 - Joint ventures y alianzas estratégicas
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-[TU-LINK]-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINK)](https://www.linkedin.com/in/brian-mendez-2904092b6/)
-[![GitHub][(https://img.shields.io/badge/GitHub-@TUUSUARIO-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TU-USUARIO)](https://github.com/J-BORNER)
-✉️ **bm930731gmail.com**
+<p align="center">
+  <a href="[https://linkedin.com/in/[TU-LINKEDIN]](https://www.linkedin.com/in/brian-mendez-2904092b6/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/[TU-USUARIO]"><img src="https://img.shields.io/badge/GitHub-@[TU-USUARIO]-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:[bm930731gmail.com]"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -173,5 +208,5 @@ Si buscas a alguien que pueda **diseñar, construir, desplegar y proteger** tu p
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=30&fontColor=fff&animation=twinkling" />
 </p>
