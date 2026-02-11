@@ -163,8 +163,8 @@ Si buscas a alguien que pueda **diseñar, construir, desplegar y proteger** tu p
 - Joint ventures y alianzas estratégicas
 
 [![LinkedIn][(https://img.shields.io/badge/LinkedIn-[TU-LINK]-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINK)](https://www.linkedin.com/in/brian-mendez-2904092b6/)
-[![GitHub](https://img.shields.io/badge/GitHub-@TUUSUARIO-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
-✉️ **[TU-EMAIL@DOMINIO.COM]**
+[![GitHub][(https://img.shields.io/badge/GitHub-@TUUSUARIO-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TU-USUARIO)](https://github.com/J-BORNER)
+✉️ **bm930731gmail.com**
 
 ---
 
